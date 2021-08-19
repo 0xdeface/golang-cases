@@ -15,3 +15,6 @@
 * [isp - interface segregation principle ](solid/4.isp)
 * [dip - dependency inversion principle](solid/5.dip)
 
+##### Шаблоны проектирования
+* [builder](patterns/builder)
+
