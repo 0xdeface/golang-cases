@@ -9,4 +9,8 @@
 * [Одновременное выполнение N задач, остановка задач при достижении Q ошибок](task-run-together.go)    
 
 ##### Принципы разработки и дизайна
+<<<<<<< HEAD
 * [ocp - open/close principle](principles/ocp)
+=======
+* [ocp - open/close principle](ocp)
+>>>>>>> fe0d2b78746b9cd73cff62c15d27b3794044c3bf
