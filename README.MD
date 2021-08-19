@@ -9,4 +9,9 @@
 * [Одновременное выполнение N задач, остановка задач при достижении Q ошибок](task-run-together.go)    
 
 ##### Принципы разработки и дизайна
-* [ocp - open/close principle](principles/ocp)
+* [srp - single responsibility](solid/1.srp)
+* [ocp - open/close principle](solid/2.ocp)
+* [lsp - liskov substitution principle](solid/3.lsp)
+* [isp - interface segregation principle ](solid/4.isp)
+* [dip - dependency inversion principle](solid/5.dip)
+
